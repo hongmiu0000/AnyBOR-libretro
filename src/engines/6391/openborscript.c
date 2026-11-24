@@ -1920,7 +1920,7 @@ HRESULT openbor_drawsprite(ScriptVariant **varlist , ScriptVariant **pretvar, in
 
 drawsprite_error:
     printf("Function requires a valid sprite handle 3 integer values, 5th integer value is optional: drawsprite(sprite, int x, int y, int z, int sortid)\n");
-	    /* Original 6330 LNS logs this error but returns S_OK */
+	/* Original 6330 LNS logs this error but returns S_OK */
     if(obor_profile_features & OBOR_PROFILE_LNS_6330) return S_OK;
     return E_FAIL;
 }
