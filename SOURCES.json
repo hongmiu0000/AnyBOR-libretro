@@ -2329,7 +2329,7 @@
     "src/engines/6391/Makefile.libretro": "61cb755b8a44d0add1e2d33f9a0c0c6b05c0dbfa80df2c03d6560054a955603c",
     "src/engines/6391/openbor.c": "e04bcdd1345e28812c7fb48368e221dbeadc32eba3792739fbb3aa8c3ceac87e",
     "src/engines/6391/openbor.h": "bbcc446bd083e7b7242f2761ca221a74b9debdf060f84be1350f635e911100b6",
-    "src/engines/6391/openborscript.c": "1ff44728dc42cf59df58b4a67bcac19485428b35b8629a73e169d49f8a74ee54",
+    "src/engines/6391/openborscript.c": "cfb66c28bb35f7d25608ebf27c45775983c7194bd567ae004202ab8354cb8b8d",
     "src/engines/6391/source/adpcmlib/adpcm.h": "230e91cf4ae42a74e92b7e8dbb1bd6ab87bd6f4c768db7b7fda466ea0facf8d8",
     "src/engines/6391/source/gamelib/anigif.c": "b077b7ee315bbb8317a2431bd77e7f461561970a8e80c8274908ac410ef2d052",
     "src/engines/6391/source/gamelib/anigif.h": "6b24469b814853c4e417cbead0eb9756a387e4ca98e96f8b04d548d538968cd8",
